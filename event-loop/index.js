@@ -5,6 +5,8 @@
  *
  */
 
+console.log('最后结果: 1 3 4 5 3');
+
 console.log("1");
 
 setTimeout(() => console.log("2"));
